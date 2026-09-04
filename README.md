@@ -55,7 +55,11 @@ The dashboard includes:
 ## 📂 Project Files
 
 - `Swiggy_Style_Food_Delivery_Analytics_50K.xlsx` – Interactive Excel dashboard and dataset
-- `dashboard_preview.png` – Dashboard preview
+- `Screenshot (21).png` – Dashboard preview
+
+## 📸 Dashboard Preview
+
+![Swiggy Food Delivery Dashboard](Screenshot%20%2821%29.png)
 
 ## 💡 Key Insights
 
